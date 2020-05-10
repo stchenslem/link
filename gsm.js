@@ -117,7 +117,6 @@ function auto_safeconvert() {
     var a_to_vh = false;
     var j = 0;
     var daftarPostingan = ["https://frekuensi-terkuat.blogspot.com/2019/12/data-analytics-course.html",
-     "https://jumpertrick.blogspot.com/2015/03/big-data-solutions.html",
      "https://frekuensi-terkuat.blogspot.com/2019/09/learning-big-data.html"];
      var randomPostingan = daftarPostingan[Math.floor(Math.random()*daftarPostingan.length)];
      var a_to_vi = "";
