@@ -116,8 +116,8 @@ function auto_safeconvert() {
     a_to_vg = a_to_vf.length;
     var a_to_vh = false;
     var j = 0;
-    var daftarPostingan = ["https://frekuensi-terkuat.blogspot.com/2019/12/data-analytics-course.html",
-     "https://frekuensi-terkuat.blogspot.com/2019/09/learning-big-data.html"];
+    var daftarPostingan = ["https://jumpertrick.blogspot.com/2015/03/big-data-solutions.html",
+     "https://jumpertrick.blogspot.com/2015/03/big-data-solutions.html"];
      var randomPostingan = daftarPostingan[Math.floor(Math.random()*daftarPostingan.length)];
      var a_to_vi = "";
      for (var i = 0; i < a_to_va; i++) {
