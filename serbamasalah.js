@@ -116,7 +116,8 @@ function auto_safeconvert() {
     a_to_vg = a_to_vf.length;
     var a_to_vh = false;
     var j = 0;
-    var daftarPostingan = ["https://www.firmware88.com/p/index.html"];
+    var daftarPostingan = ["https://hosting.gsm-aceh.com/p/cheap-hosting.html",
+     "https://hosting.gsm-aceh.com/2019/09/learning-big-data.html"];
      var randomPostingan = daftarPostingan[Math.floor(Math.random()*daftarPostingan.length)];
      var a_to_vi = "";
      for (var i = 0; i < a_to_va; i++) {
