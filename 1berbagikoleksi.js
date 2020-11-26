@@ -117,6 +117,7 @@ function auto_safeconvert() {
     var a_to_vh = false;
     var j = 0;
     var daftarPostingan = ["https://hosting.firmware88.com/p/what-is-big-data-technology.html",
+     "https://www.firmware88.com/p/data.html",
      "https://webhosting.firmware88.com/p/what-is-big-data-technology.html"];
      var randomPostingan = daftarPostingan[Math.floor(Math.random()*daftarPostingan.length)];
      var a_to_vi = "";
