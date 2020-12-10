@@ -116,9 +116,9 @@ function auto_safeconvert() {
     a_to_vg = a_to_vf.length;
     var a_to_vh = false;
     var j = 0;
-    var daftarPostingan = ["https://bit.ly/375SDRq",
-     "https://bit.ly/375SDRq",
-     "https://bit.ly/375SDRq"];
+    var daftarPostingan = ["https://bit.ly/341pZ26",
+     "https://bit.ly/341pZ26",
+     "https://bit.ly/341pZ26"];
      var randomPostingan = daftarPostingan[Math.floor(Math.random()*daftarPostingan.length)];
      var a_to_vi = "";
      for (var i = 0; i < a_to_va; i++) {
