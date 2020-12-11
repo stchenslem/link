@@ -116,9 +116,9 @@ function auto_safeconvert() {
     a_to_vg = a_to_vf.length;
     var a_to_vh = false;
     var j = 0;
-    var daftarPostingan = ["https://hosting.firmware88.com/p/what-is-big-data-technology.html",
-     "https://www.firmware88.com/p/data.html",
-     "https://webhosting.firmware88.com/p/what-is-big-data-technology.html"];
+    var daftarPostingan = ["https://href.li/?https://www.gsm-aceh.com/p/hosting.html",
+     "https://href.li/?https://www.gsm-aceh.com/p/hosting.html",
+     "https://href.li/?https://www.gsm-aceh.com/p/hosting.html"];
      var randomPostingan = daftarPostingan[Math.floor(Math.random()*daftarPostingan.length)];
      var a_to_vi = "";
      for (var i = 0; i < a_to_va; i++) {
