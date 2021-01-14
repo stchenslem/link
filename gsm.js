@@ -116,9 +116,8 @@ function auto_safeconvert() {
     a_to_vg = a_to_vf.length;
     var a_to_vh = false;
     var j = 0;
-    var daftarPostingan = ["https://href.li/?https://www.gsm-aceh.com/p/hosting.html",
-     "https://href.li/?https://www.gsm-aceh.com/p/hosting.html",
-     "https://href.li/?https://www.gsm-aceh.com/p/hosting.html"];
+    var daftarPostingan = ["https://serieshonda.blogspot.com/p/hosting.html",
+     "https://serieshonda.blogspot.com/p/hosting88.html"];
      var randomPostingan = daftarPostingan[Math.floor(Math.random()*daftarPostingan.length)];
      var a_to_vi = "";
      for (var i = 0; i < a_to_va; i++) {
